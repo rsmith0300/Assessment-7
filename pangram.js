@@ -20,3 +20,4 @@ console.log(isItPangram(sentence1)) //true
 console.log(isItPangram(sentence2)) //false
 
 //Space Complexity = O(1) Constant Space
+//Runtime = O(n)

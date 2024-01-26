@@ -10,10 +10,11 @@ function  findLongestWord(array){
             longestSofar = array[i];
         }
     }
-    return longestSofar;
+    return longestSofar.length;
 }
 
 console.log(findLongestWord(wordsArray))
 console.log(findLongestWord(wordsArray2))
 
 //Space Complexity = O(1) Constant Space
+//Runtime = O(n)

@@ -13,3 +13,4 @@ console.log(hasUniqueChars("woo")) //false
 console.log(hasUniqueChars("wonder")) //true
 
 //Space Complexity = O(n) Linear Space
+//Runtime = O(n^2)

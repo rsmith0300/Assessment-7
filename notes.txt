@@ -25,3 +25,6 @@ Tiny Array
 ----------
 Time to run code with push(): 100.81 μs
 Time to run code with unshift(): 124.446 μs
+
+The pattern that I notice is the smaller the array the smaller the runtime difference between the two functions. 
+Not sure what you mean by how do they scale?
